@@ -1,4 +1,4 @@
-# nopen
+# nopen (morerats 3)
 
 <img width="1279" alt="23c60b3f4ca8bf0ad73a91e0e6d174c" src="https://user-images.githubusercontent.com/27001865/158942670-0df1d154-ca34-4b3d-961f-caa0ab62e000.png">
 
@@ -15,3 +15,7 @@ https://mp.weixin.qq.com/s/tNOOPm1z1qHUaqaTO3jtBg
 ## “NOPEN”远控木马分析报告
 
 http://www.cverc.org.cn/head/zhaiyao/news20220218-1.htm
+
+## morerats 
+
+在方程式工具包中，morerats似乎是版本系列.工具包中最新的版本是4
