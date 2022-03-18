@@ -1,6 +1,6 @@
 # nopen
 
-![Uploading 23c60b3f4ca8bf0ad73a91e0e6d174c.png…]()
+<img width="1279" alt="23c60b3f4ca8bf0ad73a91e0e6d174c" src="https://user-images.githubusercontent.com/27001865/158942670-0df1d154-ca34-4b3d-961f-caa0ab62e000.png">
 
 ## “NOPEN”远控木马分析
 
